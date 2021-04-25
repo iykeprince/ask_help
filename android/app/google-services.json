@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689501609563",
+    "project_id": "askhelp-84052",
+    "storage_bucket": "askhelp-84052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689501609563:android:5069b5b0710a6db81a697e",
+        "android_client_info": {
+          "package_name": "com.oreo.ask_help_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689501609563-o6rlvu9lqp9riq44sdmt7mtpuj646ggv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-9QRIaPUKwfnrQgX9UphsCdFo2XUWp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689501609563-o6rlvu9lqp9riq44sdmt7mtpuj646ggv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
